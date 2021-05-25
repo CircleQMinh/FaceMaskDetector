@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OpenCV-Training", "OpenCV-Training.pyproj", "{37694ADC-7E5E-489C-8DCF-CBE36980E86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37694ADC-7E5E-489C-8DCF-CBE36980E86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37694ADC-7E5E-489C-8DCF-CBE36980E86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEFD803A-DB67-4F07-BB3C-C8A8777BE4C4}
+	EndGlobalSection
+EndGlobal
